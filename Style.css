@@ -1,0 +1,138 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+#First{
+    text-align: center;
+    background-image: url(https://startbootstrap.github.io/startbootstrap-stylish-portfolio/assets/img/bg-masthead.jpg);
+    background-position: center;
+    background-size: cover;
+    padding: 18.2rem;
+}
+#First h1{
+    font-size: 88px ;
+    color: #212529;
+}
+#First h3{
+    font-size: 25px;
+    color: #212529;
+    margin-bottom: 80px;
+}
+#First a{
+    background-color: #1D809F;
+    color: white;
+    text-decoration: none;
+    padding: 30px 3rem;
+    border-radius: 1rem;
+    transition: .5s;
+}
+#First a:hover{
+    background-color: blue;
+}
+
+#Second{
+    text-align: center;
+    margin-top: 8rem;
+}
+
+#Second h2{
+    font-size: 232%;
+    color: #212529;
+    
+}
+
+#Second p{
+    font-size: 132%;
+    color: rgb(65, 62, 62);
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 1%;  
+}
+.Button{
+    background-color: #212529;
+    padding: 30px 3rem;
+    border-radius: 1rem;
+    margin: 3rem 36rem;
+   
+}
+
+.Button a{
+    text-decoration: none;  
+    color: white;
+}
+
+#Third{
+    background-image: url(https://startbootstrap.github.io/startbootstrap-stylish-portfolio/assets/img/bg-callout.jpg);
+    background-position: center;
+    background-size: cover;
+    padding: 18.2rem;
+}
+
+#Third h2{
+    font-size: 56px;
+    
+}
+.Box a{
+    background-color: #1D809F;
+    text-decoration: none;
+    color: white;
+    padding: 25px 50px;
+    border-radius: 10px;  
+    transition: .5s;
+}
+
+.Box a:hover{
+    background-color: blue;
+}
+
+#Fourth{
+    background-color: #1D809F;
+    text-align: center;
+    width: 100%;
+
+}
+
+.Header h1{
+    text-align: center;
+    color: white;
+    padding: 150px;
+    text-align: center;
+}
+
+
+.First-Box {
+    
+   
+    display: inline-block;
+    margin-inline-end: 319px;
+}
+.First-Box a{
+    padding: 20px 40px;
+    border-radius: 10px; 
+    background-color: white;
+    color: black;
+    text-decoration: none;
+}
+
+.Second-Box {
+
+    
+    
+    display: inline-block;
+    margin-right: 5px;
+}
+
+.Second-Box a{
+    border-radius: 10px; 
+    background-color: black;
+    color: white;
+    padding: 21px 29px; 
+    text-decoration: none;
+}
+
+.Map{
+    margin-top: 12rem;
+   
+}
